@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "658906590515",
+    "firebase_url": "https://volenteersdb-aaf27.firebaseio.com",
+    "project_id": "volenteersdb-aaf27",
+    "storage_bucket": "volenteersdb-aaf27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658906590515:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658906590515-eredeufnkdtf0vikj4dk1g6ee49t4q4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.ionic.starter",
+            "certificate_hash": "4605c877c6d58e2761eb61653a4f1cd70cde924f"
+          }
+        },
+        {
+          "client_id": "658906590515-cscd930q854nvf7dghtkmab0ovmb5uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6PCbWPs3BZW5NSgKbR7mIie12RY8EEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658906590515-cscd930q854nvf7dghtkmab0ovmb5uuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
